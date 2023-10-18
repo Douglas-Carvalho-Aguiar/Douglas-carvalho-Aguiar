@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}"### Hi there 👋
 
 <!--
 **Douglas-Carvalho-Aguiar/Douglas-carvalho-Aguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
